@@ -6,8 +6,8 @@ version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
 
-//apply plugin: 'application'
-//mainClassName = 'main.java.demo.HelloWorld'
+apply plugin: 'application'
+mainClassName = 'main.java.demo.HelloWorld'
 // mainClassName = 'org.ros.RosRun'
 
 
