@@ -12,7 +12,7 @@ import org.ros.node.topic.Subscriber;
  * A simple {@link Subscriber} {@link NodeMain}.
  *
  * @author damonkohler@google.com (Damon Kohler)
- */
+ *
 public class Listener extends AbstractNodeMain {
 
     @Override
@@ -31,4 +31,4 @@ public class Listener extends AbstractNodeMain {
             }
         });
     }
-}
+}*/

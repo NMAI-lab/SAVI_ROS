@@ -11,7 +11,7 @@ import org.ros.node.topic.Publisher;
  * A simple {@link Publisher} {@link NodeMain}.
  *
  * @author damonkohler@google.com (Damon Kohler)
- */
+ *
 public class Talker extends AbstractNodeMain {
 
     @Override
@@ -43,4 +43,4 @@ public class Talker extends AbstractNodeMain {
             }
         });
     }
-}
+}*/
