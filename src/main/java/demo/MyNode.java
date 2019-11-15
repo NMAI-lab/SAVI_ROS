@@ -1,4 +1,4 @@
-package demo;
+/*package demo;
 
 import org.ros.namespace.GraphName;
 import org.ros.node.Node;
@@ -26,4 +26,4 @@ public class MyNode implements NodeMain {
     @Override
     public void onError(Node node, Throwable throwable) {
     }
-}
+}*/
