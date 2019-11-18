@@ -1,4 +1,4 @@
-/*package org.ros.rosjava_tutorial_pubsub;
+package org.ros.rosjava_tutorial_pubsub;
 
 import org.ros.concurrent.CancellableLoop;
 import org.ros.namespace.GraphName;
@@ -6,13 +6,12 @@ import org.ros.node.AbstractNodeMain;
 import org.ros.node.ConnectedNode;
 import org.ros.node.NodeMain;
 import org.ros.node.topic.Publisher;
-*/
+
 /**
  * A simple {@link Publisher} {@link NodeMain}.
  *
  * @author damonkohler@google.com (Damon Kohler)
  */
-/*
 public class Talker extends AbstractNodeMain {
 
     @Override
@@ -44,4 +43,4 @@ public class Talker extends AbstractNodeMain {
             }
         });
     }
-}*/
+}

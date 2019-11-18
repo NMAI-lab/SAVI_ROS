@@ -1,4 +1,4 @@
-/*package org.ros.rosjava_tutorial_pubsub;
+package org.ros.rosjava_tutorial_pubsub;
 
 import org.apache.commons.logging.Log;
 import org.ros.message.MessageListener;
@@ -7,13 +7,12 @@ import org.ros.node.AbstractNodeMain;
 import org.ros.node.ConnectedNode;
 import org.ros.node.NodeMain;
 import org.ros.node.topic.Subscriber;
-*/
+
 /**
  * A simple {@link Subscriber} {@link NodeMain}.
  *
  * @author damonkohler@google.com (Damon Kohler)
  */
-/*
 public class Listener extends AbstractNodeMain {
 
     @Override
@@ -32,4 +31,4 @@ public class Listener extends AbstractNodeMain {
             }
         });
     }
-}*/
+}
