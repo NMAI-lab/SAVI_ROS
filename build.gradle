@@ -10,6 +10,7 @@ sourceCompatibility = 1.8
 
 run {
     //mainClassName = 'demo.HelloWorld'
+    apply plugin: 'application'
     mainClassName = 'org.ros.RosRun'
 }
 
