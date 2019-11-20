@@ -17,8 +17,8 @@ run {
 repositories {
     mavenCentral()
     maven {
-        //url "https://github.com/rosjava/rosjava_mvn_repo/raw/master"
-        url "https://github.com/rosjava/rosjava_mvn_repo"
+        url "https://github.com/rosjava/rosjava_mvn_repo/raw/master"
+        //url "https://github.com/rosjava/rosjava_mvn_repo"
     }
     mavenLocal()
     jcenter()
